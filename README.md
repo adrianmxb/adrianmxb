@@ -13,7 +13,7 @@
 ---
 
 I started developing software nearly a decade ago when I taught myself how to code at the age of 14.
-Whilst still attending school, I decided to start my own business and have been developing software professionally ever since. Right now I am working as a Full Stack Developer [@ContractHero](https://github.com/ContractHero) changing how businesses are managing their contracts and building some cool prototypes over at [@highcard](https://github.com/highcard-dev). 🤓
+Whilst still attending school, I decided to start my own business and have been developing software professionally ever since. Right now I am working as a Full Stack Developer at [@ContractHero](https://github.com/ContractHero) changing how businesses are managing their contracts. Besides that I am building some cool prototypes over at [@highcard](https://github.com/highcard-dev). 🤓
 
 📫 Questions? [hello@adrianmxb.com](mailto:hello@adrianmxb.com)
 
