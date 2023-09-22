@@ -1,12 +1,12 @@
 ### Hi there, I'm Adrian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a target="_blank" href="https://www.linkedin.com/in/adrian-busse/">
-  <img align="left" alt="Adrians LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Adrians LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <a href="https://www.instagram.com/adrian.mxb/">
   <img align="left" alt="Adrians Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/adrian_mxb">
-  <img align="left" alt="Adrians Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Adrians X (Twitter)" width="22px" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png" />
 </a>
 </br>
 
